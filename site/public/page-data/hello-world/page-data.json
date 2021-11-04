@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---packages-agency-theme-src-templates-post-index-js",
+    "path": "/hello-world/",
+    "result": {"pageContext":{"id":"cG9zdDox","title":"Hello world!","excerpt":"<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n","content":"\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n","date":"2021-08-27T16:32:39","uri":"/hello-world/","featuredImage":{"node":{"altText":"","sourceUrl":"http://gatsbywp.local/wp-content/uploads/2021/08/image-18.png"}}}},
+    "staticQueryHashes": []}

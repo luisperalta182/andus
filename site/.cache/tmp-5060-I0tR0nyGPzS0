@@ -1,0 +1,5 @@
+
+    const cmd = require("C:/Users/Peralta/Documents/Boombit/Gatsby/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":61935,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"C:\\Users\\Peralta\\Documents\\Boombit\\Gatsby\\site","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"site","version":"1.0.0","description":"&US Agency Theme","main":"index.js","scripts":{"build":"gatsby build","dev":"gatsby develop","clean":"gatsby clean","serve":"gatsby clean && gatsby build && gatsby serve"},"author":"&US Agency","license":"ISC","dependencies":{"dotenv":"^10.0.0","gatsby":"^3.12.1","react":"^17.0.2","react-dom":"^17.0.2","agency-theme":"*"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  

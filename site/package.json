@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "&US Agency Theme",
+  "main": "index.js",
+  "scripts": {
+		"build": "gatsby build",
+		"dev": "gatsby develop",
+    "clean": "gatsby clean",
+		"serve": "gatsby clean && gatsby build && gatsby serve"
+  },
+  "author": "&US Agency",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "gatsby": "^3.12.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "agency-theme": "*"
+  }
+}
